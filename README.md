@@ -19,16 +19,16 @@ Stats             |  Langs
 [![winoooops's github stats](https://github-readme-stats.vercel.app/api?username=winoooops&theme=gruvbox&show_icons=true&count_private=true&hide=,issues,contribs)](https://github.com/mango-lzp/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winoooops&hide=c++&layout=compact)](https://github.com/winoooops)
 
 ### 👨🏻‍💻 About Me
-- 🔭 Currently wokring as a full-time Front-end Developer. 
+- 🔭 Currently working as a full-time Front-end Developer. 
 - 🤔 Exploring on Full-stack technologies and web applications. 
 - 🎓 Graduate of University of Technology Sydney.
-- 👍 Looking for opportunities to join as a remote/freelance developer.  
+- 👍 Looking forward to thriving to be a freelance/remote developer.  
 - 🌱 Learning more about Data Structure and Algorithms.
 
 ### ⌨️ Tech Stack
 - 🌐 HTML | CSS | JavaScript | Typescript | Vue.js | ReactJS
 - 🖥 Node.js | Nest.js
-- 🛢 GraphQL | MongoDB | MySQLite
+- 🛢 GraphQL | MongoDB 
 - 🔧 Git | Docker | Nginx
 
 
