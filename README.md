@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Stats             |  Langs
 :-------------------------:|:-------------------------:
-[![winoooops's github stats](https://github-readme-stats.vercel.app/api?username=winoooops&theme=gruvbox&show_icons=true&count_private=true&hide=,issues,contribs)](https://github.com/mango-lzp/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winoooops&hide=c%2B%2B%20Handlebars&layout=compact)](https://github.com/winoooops)
+[![winoooops's github stats](https://github-readme-stats.vercel.app/api?username=winoooops&theme=gruvbox&show_icons=true&count_private=true&hide=,issues,contribs)](https://github.com/mango-lzp/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winoooops&hide=Handlebars&layout=compact)](https://github.com/winoooops)
 
 ### 👨🏻‍💻 About Me
 - 🔭 Currently working as a full-time Front-end Developer. 
