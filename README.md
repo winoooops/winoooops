@@ -41,5 +41,5 @@ Stats             |  Langs
 <a href="https://www.linkedin.cn/injobs/in/wei-wang-cspractitioner"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Wei%20Wang-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:w.wang4869@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-w.wang4869@gmail.com-blue?style=flat-square&logo=gmail"></a>
 ### 🎮 Fun Fun Function
-- Speaks Madarin, English & Japanese. 
+- Speaks Mandarin, English & Japanese. 
 - A life-time gamer.
