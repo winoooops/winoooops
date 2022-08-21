@@ -29,7 +29,7 @@ Stats             |  Langs
 - 🌐 HTML | CSS | JavaScript | Typescript | Vue.js | ReactJS | Angular
 - 🖥 Node.js | Nest.js
 - 🛢 GraphQL | MongoDB 
-- 🔧 Git | Docker | Nginx
+- 🔧 Git | Docker | Nginx | Gradle
 
 
 <!-- ### Active Project
