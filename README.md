@@ -26,7 +26,7 @@ Stats             |  Langs
 - 🌱 Learning more about Data Structure and Algorithms.
 
 ### ⌨️ Tech Stack
-- 🌐 HTML | CSS | JavaScript | Typescript | Vue.js | ReactJS | Angular
+- 🌐 HTML | CSS | JavaScript | TypeScript | React | Angular
 - 🖥 Java | Node.js | Nest.js
 - 🛢 GraphQL | MongoDB 
 - 🔧 Git | Docker | Gradle | Selenium
