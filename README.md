@@ -27,9 +27,9 @@ Stats             |  Langs
 
 ### ⌨️ Tech Stack
 - 🌐 HTML | CSS | JavaScript | Typescript | Vue.js | ReactJS | Angular
-- 🖥 Node.js | Nest.js
+- 🖥 Java | Node.js | Nest.js
 - 🛢 GraphQL | MongoDB 
-- 🔧 Git | Docker | Nginx | Gradle
+- 🔧 Git | Docker | Gradle | Selenium
 
 
 <!-- ### Active Project
