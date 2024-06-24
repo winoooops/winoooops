@@ -23,7 +23,7 @@ Stats             |  Langs
 - 🤔 Exploring on Full-stack technologies and web applications. 
 - 🎓 Graduate of University of Technology Sydney.
 - 👍 Looking forward to thriving to be a freelance/remote developer.  
-- 🌱 Learning more about Data Structure and Algorithms.
+- 🌱 Learning more about Web3, BlockChain & Smart Contracts.
 
 ### ⌨️ Tech Stack
 - 🌐 HTML | CSS | JavaScript | TypeScript | React | Angular
