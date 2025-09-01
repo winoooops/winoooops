@@ -13,7 +13,7 @@ Stats | Langs
 
 ---
 
-## 🛠 Tech Stack (icons)
+## 🛠 Tech Stack
 <!-- Devicon: https://github.com/devicons/devicon -->
 <!-- Tech Stack (grouped rows, horizontal icons) -->
 <section>
@@ -61,7 +61,7 @@ Stats | Langs
 
 ---
 
-## 🚀 Current Side Hustles (concise)
+## 🚀 Current Side Hustles
 - **Lunai** — Agentic AI Chat App *Stack:* TypeScript, Node.js, GraphQL, prompts, client/server packages.  
 - **open‑swap** — Unified LLM router/proxy. *Stack:* TypeScript, provider adapters (OpenAI/Anthropic/Gemini/OpenRouter/local).  
 - **chill‑mcp‑server** — Claude MCP server for global `/quote`, `/highfive`, `/chill`. *Stack:* TypeScript, shell tooling.  
@@ -69,7 +69,7 @@ Stats | Langs
 
 ---
 
-## 🧪 LLM‑Readable Engineering Manifesto
+## 🧪 Manifesto
 
 ```ts
 // demo/generate-bio.ts
@@ -98,7 +98,7 @@ const bio = await chain.invoke({ manifesto });
 ```
 ---
 
-## 🗺️ 2025 Roadmap (living)
+## 🗺️ 2025 Roadmap
 - [x] Open‑source Lunai minimal agent + context router
 - [ ] Publish LangGraph templates (task routing, memory, tools)
 - [ ] Evals + guardrails playbook for AI features
