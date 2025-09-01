@@ -61,8 +61,8 @@ Stats | Langs
 
 ---
 
-## 🚀 Selected Projects (concise)
-- **Lunai** — Agentic AI app monorepo. *Stack:* TypeScript, Node.js, GraphQL, prompts, client/server packages.  
+## 🚀 Current Side Hustles (concise)
+- **Lunai** — Agentic AI Chat App *Stack:* TypeScript, Node.js, GraphQL, prompts, client/server packages.  
 - **open‑swap** — Unified LLM router/proxy. *Stack:* TypeScript, provider adapters (OpenAI/Anthropic/Gemini/OpenRouter/local).  
 - **chill‑mcp‑server** — Claude MCP server for global `/quote`, `/highfive`, `/chill`. *Stack:* TypeScript, shell tooling.  
 - **aws‑mock‑test** — Mock‑test platform. *Stack:* React (FE), API Gateway + Lambda + DynamoDB + S3 (BE), IaC + CI.
