@@ -9,7 +9,7 @@ I’m a **Software Engineer** focusing on **Agentic AI** — LLM tools, RAG, orc
 ### 📊 Stats
 Stats | Langs
 :--:|:--:
-[![GitHub stats](https://github-readme-stats-ruddy-ten.vercel.app/api?username=winoooops&theme=gruvbox&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/winoooops) | [![Top Langs](https://github-readme-stats-ruddy-ten.vercel.app/api/top-langs/?username=winoooops&hide=Handlebars&layout=compact)](https://github.com/winoooops)
+[![GitHub stats](https://github-readme-stats-ruddy-ten.vercel.app/api?username=winoooops&theme=gruvbox&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/winoooops) | [![Top Langs](https://github-readme-stats-ruddy-ten.vercel.app/api/top-langs/?username=winoooops&hide=Handlebars,HTML,css,shell,Lua&layout=compact)](https://github.com/winoooops)
 
 ---
 
